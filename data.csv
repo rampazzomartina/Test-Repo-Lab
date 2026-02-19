@@ -1,4 +1,5 @@
-﻿Name,Score,Passed
-Alice,90,Yes
-Bob,75,Yes
-Charlie,60,No
+﻿City,Weather,Temperature
+London,Bad,10
+Helsinki,Bad,-10
+Califronia,Good,20
+
